@@ -78,3 +78,11 @@ const String pixabayApiKey = String.fromEnvironment('PIXABAY_API_KEY');
   - Pixabay API: For fetching image data.
   - GitHub Pages: For hosting the web version.
 
+# Screenshots
+<p float = "left">
+<img src="screenshots/loading.jpg" alt="Loading" width="300"/>
+<img src="screenshots/first.jpg" alt="Images 1" width="300"/>
+<img src="screenshots/second.jpg" alt="Images 2" width="300"/>
+</p>
+
+
